@@ -7,7 +7,6 @@ import { PostRequest } from "~/utils/request";
 import { useToast } from "~/components/ui/use-toast";
 import {
   appStoreUrl,
-  facebookUrl,
   instagramUrl,
   playStoreUrl,
   tiktokUrl,
@@ -96,12 +95,6 @@ const socialLinks = [
     href: tiktokUrl(),
     icon: "/tiktok-fill.svg",
     alt: "tiktok icon",
-  },
-  {
-    id: 2,
-    href: facebookUrl(),
-    icon: "/facebook-fill.svg",
-    alt: "facebook icon",
   },
   {
     id: 3,
