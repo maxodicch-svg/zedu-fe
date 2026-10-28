@@ -20,7 +20,7 @@ export const otherFeatures = [
   {
     title: "Class Recordings",
     description:
-      "Revisit, review, and reinforce your learning anytime. Access lessons, clarify concepts, and strengthen understanding anytime.",
+      "Revisit, review, and reinforce your learning anytime. Access lessons, clarify concepts, and strengthen your understanding at your own pace.",
     icon: "/images/homepage/icons/class-recordings.png",
   },
   {
@@ -32,7 +32,7 @@ export const otherFeatures = [
   {
     title: "File Management",
     description:
-      "Organize, share, and instantly access all your learning resources in one secure, centralized hub reduces clutter, and keeps every class connected.",
+      "Organize, share, and instantly access all your learning resources in one secure, centralized hub that reduces clutter and keeps every class connected.",
     icon: "/images/homepage/icons/file-management.png",
   },
   {
@@ -44,7 +44,7 @@ export const otherFeatures = [
   {
     title: "AI class notes",
     description:
-      "Simplifying complex concepts, empowering students to learn, explore, and master artificial intelligence with practical understanding.",
+      "Turn class discussions into clear AI summaries learners can review anytime, so educators spend less time recapping and more time teaching.",
     icon: "/images/homepage/icons/AI-class-note.png",
   },
 ];
